@@ -1,1 +1,1 @@
-https://expo.io/@/rn_weather
+https://expo.io/@dongqui9/rn_weather
